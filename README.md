@@ -38,11 +38,11 @@ pip install -r requirements.txt
 ## **Setup Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/movies-recommendation-system.git
+   git clone https://github.com/darshan-dalvi/Movie-Recommendation-System.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd movies-recommendation-system
+   cd Movie-Recommendation-System
    ```
 3. Generate pickle files:
    - Open and run the `main.ipynb` file to process the dataset and generate `movies_list.pkl` and `similarity.pkl`.
